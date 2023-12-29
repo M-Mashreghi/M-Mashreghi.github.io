@@ -15,9 +15,6 @@ main:
     
   - title: "CV"
     url: /cv/
-
-  - title: "IMDb"
-    url: /imdb/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Transcript"
+    url: /transcript/
