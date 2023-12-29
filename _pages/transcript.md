@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Transcript"
+title: "Transcript-Grades"
 permalink: /transcript/
 author_profile: true
 redirect_from:

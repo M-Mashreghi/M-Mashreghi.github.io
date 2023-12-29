@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
-permalink: /Transcript/
+title: "Transcript"
+permalink: /transcript/
 author_profile: true
 redirect_from:
   - /resume
@@ -68,7 +68,7 @@ h2 {
   position: absolute;
 }
 
-.Transcriptbtn {
+.transcriptbtn {
   background-color: #2993FC;
   border: none;
   color: white;
@@ -79,7 +79,7 @@ h2 {
 }
 
 /* Darker background on mouse-over */
-.Transcriptbtn:hover {
+.transcriptbtn:hover {
   background-color: #446DDE;
 }
 
@@ -88,8 +88,8 @@ h2 {
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <br>
-  <a href="/files/Transcript.pdf">
-    <button class="Transcriptbtn"><i class="fa fa-download"></i> Download my Transcript</button>
+  <a href="/files/transcript.pdf">
+    <button class="transcriptbtn"><i class="fa fa-download"></i> Download my transcript</button>
   </a>
 <br>
 
@@ -203,7 +203,7 @@ and underwater vehicles</li>
   </div>
   {% for post in site.publications reversed %}
     {% if post.type == 'journal' %}
-      {% include archive-single-Transcript.html %}
+      {% include archive-single-transcript.html %}
     {% endif %}
   {% endfor %}
   <div>
@@ -211,7 +211,7 @@ and underwater vehicles</li>
   </div>
   {% for post in site.publications reversed %}
     {% if post.type == 'conference' %}
-      {% include archive-single-Transcript.html %}
+      {% include archive-single-transcript.html %}
     {% endif %}
   {% endfor %}
 
