@@ -6,12 +6,23 @@ layout: compress
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
   <body>
+
+    <script src="{{ '/assets/js/progressbar.js' }}"></script>
+    <div id="progress-bar"></div>
+
+    <script src="{{ '/assets/js/up_button.js' }}"></script>
+    <script>addBackToTop({
+      diameter: 56,
+      backgroundColor: 'rgb(0,191,255)',
+      textColor: '#fff'
+    })</script>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -26,6 +37,9 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+    {% include toggle-code.html %}
 
   </body>
 </html>
+
+

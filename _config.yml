@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Mashreghi / Résumé"
+title                    : "Joel Reis / About me"
 title_separator          : "-"
-name                     : &name "Mohammad Mashreghi"
+name                     : &name "Joel Reis"
 description              : &description "personal description"
-url                      : https://m-mashreghi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://joelreis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "M-Mashreghi/M-Mashreghi.github.io"
+repository               : "joelreis/joelreis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "M Mashreghi"
-  avatar           : "https://media.licdn.com/dms/image/D4E03AQG2aweJ7dRsuQ/profile-displayphoto-shrink_400_400/0/1682979817432?e=1707350400&amp;v=beta&amp;t=7wgf0o3ZSJ9FLjLJqEv15qPVWrVlGEGgv8z_P8DUhvs"
-  bio              : "School of Electrical & computer Engineering, College of Engineering, University of Tehran"
-  location         : "Iran"
-  employer         :
+  name             : "Joel Oliveira Reis"
+  avatar           : "profile.jpg"
+  flag             : "macau-flag.png"
+  bio              : 
+  location         : "Macau, China"
+  employer         : "University of Macau"
   pubmed           : 
-  googlescholar    : 
-  email            : "m.mashreghi@ut.ac.ir"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=QIi3y4wAAAAJ"
+  email            :
+  researchgate     : "https://www.researchgate.net/profile/Joel-Reis-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,27 +97,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "M-Mashreghi"
+  github           : "joelreis"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mashreghi/"
-  orcid            : 
+  linkedin         :
+  orcid            : "http://orcid.org/0000-0002-9281-6829"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "joelreis90"
+  wechat           : "joelreis90"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  skype            : "https://join.skype.com/invite/gwW6VvzNJD7z"
-  telegram         : "https://t.me/Mashreghi80"
 
 
 # Reading Files
@@ -190,7 +190,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
 # Defaults
 defaults:
   # _posts
@@ -252,12 +251,14 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+head_scripts:
+  - /assets/js/progressbar.js
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Iran # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -267,6 +268,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-jupyter-notebook
+  
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

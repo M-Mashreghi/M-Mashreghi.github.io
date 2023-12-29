@@ -1,18 +1,72 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+batista:
+  name  : Pedro Batista
+  uri   : "http://name.com"
+  email : "name@name.com"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+cabecinhas:
+  name  : David Cabecinhas
+  uri   : "http://name.com"
+  email : "dcabecinhas@isr.tecnico.ulisboa.pt"
+
+casau:
+  name  : Pedro Casau
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+cunha:
+  name  : Rita Cunha
+  uri   : "http://name.com"
+  email : "rita@isr.tecnico.ulisboa.pt"
+
+linghuan:
+  name  : Linghuan Kong
+  uri   : "http://name.com"
+  email : "kong.ahuan@gmail.com"
+
+morgado:
+  name  : Marco Morgado
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+oliveira:
+  name  : Paulo Oliveira
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+reis:
+  name  : Joel Reis
+  uri   : "http://name.com"
+  email : "joelreis@um.edu.mo"
+
+silvestre:
+  name  : Carlos Silvestre
+  uri   : "http://name.com"
+  email : "csilvestre@um.edu.mo"
+
+yugan:
+  name  : Gan Yu
+  uri   : "http://name.com"
+  email : "ganyu@um.edu.mo"
+
+weiming:
+  name  : Weiming Yang 
+  uri   : "http://name.com"
+  email : "weiming.yang@connect.um.edu.mo"
+
+weihe:
+  name  : Wei He
+  uri   : "http://name.com"
+  email : "weihe@ieee.org"
+
+xiewei:
+  name  : Wei Xie
+  uri   : "http://name.com"
+  email : "weixie@sjtu.edu.cn"
+
+xinbo:
+  name  : Xinbo Yu
+  uri   : "http://name.com"
+  email : "yuxinbo17@qq.com"
+

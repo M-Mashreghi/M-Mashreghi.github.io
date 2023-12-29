@@ -175,17 +175,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: var(--main-background-color);
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: var(--main-text-color);
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #87CEEB;
     }
   }
 
@@ -196,9 +196,36 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
-    color: #fff;
+    background-color: var(--main-background-color);
+    color: #87CEEB;
     cursor: pointer;
+  }
+
+   .dropdown {
+    // float: left;
+    width: auto;
+    box-sizing: border-box;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: var(--main-background-color);
+    // min-width: 160px;
+    box-shadow: $box-shadow;
+    z-index: 1;
+    box-sizing: border-box;
+    border-color: #87CEEB;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+    // font-size: 17px;
+  }
+
+  .dropdown-item {
+    padding: 10px;
+    font-size: 15px;
   }
 
   .visible-links {
@@ -306,6 +333,8 @@
       }
     }
   }
+
+
 }
 
 
@@ -430,3 +459,4 @@
     }
   }
 }
+

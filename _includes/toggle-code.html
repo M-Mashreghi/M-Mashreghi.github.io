@@ -1,0 +1,135 @@
+<style>
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: var(--main-background-color);
+  color: var(--main-text-color);
+  cursor: pointer;
+  padding: 18px;
+  width: 15%;
+  height: 5%;
+  border: 3px solid #2C3195;
+  border-radius: 5px;
+  outline: none;
+  font-size: 15px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: var(--main-background-color);
+  border: 3px solid #2C3195;
+  border-radius: 5px;
+}
+
+div.collapsible-container {
+  display: flex;
+  flex-wrap: nowrap
+}
+  div.collapsible-container > details {
+    flex-basis: 300px;
+    flex-grow: 1;
+    flex-shrink: 1;
+  }
+
+
+details {
+  background-color: var(--main-background-color);
+  border: 3px solid #2C3195;
+  overflow: hidden;
+}
+details[open] {
+  background-color: var(--main-background-color);
+}
+
+details > summary {
+    color: var(--main-text-color);
+    padding: 1em;
+    cursor: pointer;
+}
+
+details > summary:hover {
+  background-color: var(--main-background-color);
+}
+
+details > summary:active {
+  background-color: pink;
+}
+
+details > summary::before {
+  display: inline;
+}
+
+details[open] > summary::before {
+  content: '';
+}
+
+details:not([open]) > summary::before {
+  content: '';
+}
+  
+details > summary + div {
+  background-color: var(--main-background-color);
+  padding: 0.5em;
+}
+
+
+/* Mobile-friendly (rounded corners on top and bottom items only): */
+/* This is commented-out because the StackOverflow snippet preview area is too narrow, so it will always use the mobile-friendly rules when we want to show the desktop styles instead:
+@media screen and (max-width: 767px) {
+  details:first-child {
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+  }
+  details:last-child {
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+  }
+  div.collapsible-container {
+    flex-direction: column;
+  }
+    div.collapsible-container > details {
+      flex-basis: auto;
+      flex-grow: 1;
+      flex-shrink: 1;
+    }
+}
+*/
+
+/* Same-row rounded-corners for desktops only: */
+@media screen and (min-width: 768px) {
+  details:first-child {
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+  }
+  details:last-child {
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+  }
+}
+
+</style>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = document.getElementById(this.id+"data");
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
