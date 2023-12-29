@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my academic homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,103 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Biography
+=========
+I am an EE PhD Candidate at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). 
 
-A data-driven personal website
+Education
+=========
+* University of Southern California, 08/2019-Present
+  * Degree: PhD
+  * Major: Electrical Engineering
+  * GPA: 3.9/4.0
+
+* University of Southern California, 08/2019-12/2022
+  * Degree: MS
+  * Major: Computer Science
+  * GPA: 3.9/4.0
+
+* University of Southern California, 08/2019-05/2021
+  * Degree: MS
+  * Major: Electrical Engineering
+  * GPA: 4.0/4.0
+  
+* Beijing Institute of Technology, 09/2015-06/2019
+  * Degree: Bachelor
+  * Major: Automation (Xu Teli Elite Class)
+  * GPA: 92.31/100 (rank: 1/17)
+
+Research Experience
+===================
+* 08/19/2019-Present: Research Asistant
+  * NetPD Lab, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California 
+  * Research interests: Machine learning and data privacy with applications to computer networks
+  * Supervisor: Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/)
+  * Publications: NDSS (1), PETS (2), AAAI (1) etc.
+  
+* 03/05/2019-06/30/2019: Research Internship
+  * AST Lab, Department of Computer Science, ETH Zurich, 
+  * Research interests: LLVM IR and sanitizers
+  * Supervisor: Prof. [Zhendong Su](https://scholar.google.com/citations?user=RivxoIcAAAAJ&hl=zh-CN&oi=ao)
+  * Publications: OSDI (1).
+  
+* 01/01/2017 - 03/04/2019: Research Assistant
+   * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
+   * Research interests: Deep reinforcement learning, mobile crowdsensing and control theory
+   * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024)
+   * Publications: INFOCOM (1), TMC (1), TC(1), etc.
+
+Work Experience
+===============
+* 05/16/2022 - 08/19/2022: Applied Scientist Internship
+  * AGI, Amazon
+  * Research on toxic content detection using LLMs
+ 
+* 05/16/2022 - 08/19/2022: Applied Scientist Internship
+  * Alexa AI, Amazon
+  * Research on zero-shot cross-lingual named entity recognition
+
+* 05/17/2021 - 08/20/2021: Applied Scientist Internship
+  * Alexa AI, Amazon
+  * Research on detecting personal identifiable information
+
+* 05/18/2020 - 08/21/2020: Applied Scientist Internship
+  * Alexa AI, Amazon
+  * Research on heuristics for effective quantization
+
+See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
+
+
+Conference Publications (* means equal contributions)
+============
+* **Jiang Zhang**, Qiong Wu, Yiming Xu, Cheng Cao, Zheng Du, Konstantinos Psounis. [Efficient Toxic Content Detection by Bootstrapping and Distilling
+Large Language Models]() [C]. AAAI, 2024.
+* **Jiang Zhang**, Hadi Askari, Konstantinos Psounis, Zubair Shafiq. [No Video Left Behind: A Utility-Preserving Obfuscation Approach for YouTube Recommendations](https://arxiv.org/abs/2210.08136) [C]. PETS, 2023(4).
+* Ahmed Roushdy Elkordy\*, **Jiang Zhang**\*, Yahya H. Ezzeldin, Konstantinos Psounis, Salman Avestimehr. [How Much Privacy Does Federated Learning with Secure Aggregation Guarantee?](https://arxiv.org/abs/2208.02304) [C]. PETS, 2023(1).
+* **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. [HARPO: Learning to Subvert Online Behavioral Advertising](https://arxiv.org/abs/2111.05792v2) [C]. NDSS, 2022.
+* **Jiang Zhang**, Shuai Wang, Manuel Rigger, Pingjia He, and Zhendong Su. [SanRazor: Reducing Redundant Sanitizer Checks in C/C++ Programs](https://www.usenix.org/conference/osdi21/presentation/zhang) [C]. OSDI, 2021.
+* Yufeng Zhan, **Jiang Zhang**. [An Incentive Mechanism Design for Efficient Edge Learning by Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9155268) [C]. INFOCOM, 2020.
+
+Journal Publications
+============
+* Evita Bakopoulou, Mengwei Yang, **Jiang Zhang**, Konstantinos Psounis, Athina Markopoulou. [Location Leakage in Federated Signal Maps](https://arxiv.org/pdf/2112.03452.pdf). IEEE Transactions on Mobile Computing, 2023.
+* **Jiang Zhang**, Lillian Clark, Matthew Clark, Konstantinos Psounis, Peter Kairouz. [Privacy-Utility Trades in Crowdsourced Signal Map Obfuscation](https://arxiv.org/pdf/2201.04782.pdf) [J]. Computer Networks, 2022.
+* Yufeng Zhan, Song Guo, Peng Li, **Jiang Zhang**. [A deep reinforcement learning based offloading game in edge computing](https://ieeexplore.ieee.org/abstract/document/8967118) [J]. IEEE Transactions on Computers, 2020.
+* **Jiang Zhang**, Yuanqing Xia, Ganghui Shen. [A Novel Learning-based Global Path Planning Algorithm for Planetary Rovers](https://www.sciencedirect.com/science/article/pii/S0925231219307994) [J]. Neurocomputing, 2019.
+* Yufeng Zhan, Chi Harold Liu, Yinuo Zhao, **Jiang Zhang**, Jian Tang. [Free Market of Multi-Leader Multi-Follower Mobile Crowdsensing: An Incentive Mechanism Design by Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8758205) [J]. IEEE Transactions on Mobile Computing, 2019.
+* Yufeng Zhan, **Jiang Zhang**, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network, 2019.
+
+See my [Google Scholar](https://scholar.google.com/citations?user=2HuRV6wAAAAJ&hl=en) for more details.
+
+Skills
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Programming languages: C, C++, Matlab, Python, LLVM.
+* Development environments or tools: Ubuntu, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Awards and Honors
+=================
+* USC Annenberg Fellowship, 2019
+* Meritorious Winner of the MCM (top 9%, global), 2017
+* First Scholarship of BIT (five semesters, top 10%), 2015-2018
+* First Prize of the China Undergraduate Mathematics Competition (Non Mathematical Speciality, rank 20 in Beijing), 2016
+* National Scholarship (top 5%), 2016
