@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Biography
+Biography📖
 =========
 I am an EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en).
 
-Education
+Education🎓
 =========
 * University of Southern California, 2020-Present
   * Degree: B.S
@@ -24,21 +24,22 @@ Education
   * Major: Mathematics and Physics
   * GPA: 19.07/20
 
-Research Experience
+Research Experience📚
 ===============
 * June 2023 - September 2023: Machine Learning Intern
   * Smart Network Lab
   * Research on designing new voice packages according to the behaviour of Users packages consumption in recent years.
  
 
-Skills
+Skills💻
 ======
 * Soft Skills: Teamwork, Time Management.
 * Programming languages: C, C++, Matlab, Python, VerilogHDL, SQLite.
-* Machine Learning: Tensorflow, Scikit-learn, PyTorch, Scikit-learn.
+* Machine Learning : Tensorflow, Scikit-learn, PyTorch, Scikit-learn.
 * Development environments or tools: Ubuntu, Latex, Selenium, Git.
 
-Awards and Honors
+
+ Awards and Honors 🎖️
 =================
 * <strong>Top 20% of Class , University of Tehran</strong>:
 
@@ -53,31 +54,11 @@ Ranked 1016th  (Top 0.67%) in the National Universities Entrance Examination amo
 
 INTERESTS
 =================
-* Listening to podcastsStock tradingTravellingSurfing the internetVideo GamesPing pong
+* 🎧 Listening to podcasts, 📈 Stock trading, ✈️ Travelling, 🌐 Surfing the internet, 🎮 Video Games, 🏓 Ping pong
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CERTIFICATES
+CERTIFICATES 🏆
 =================
 * <a href="https://www.coursera.org/account/accomplishments/verify/8XH5WEBVWQZU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Using Python to Access Web Data </a>, Coursera
 
@@ -86,3 +67,11 @@ CERTIFICATES
 * <a href="https://coursera.org/share/5b77b32397b9952503c6c62bd5b1cd6b">Object‑Oriented Data Structures in C++ </a>, Coursera
 
 * <a href="https://www.coursera.org/account/accomplishments/verify/MLDH5GZXEGZL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Introduction to Git and GitHub </a>, Coursera
+
+
+PROJECTS EXPERIENCE🚀
+=================
+
+* [https://github.com/M-Mashreghi/Electromagnetic-Levitation-System-Modeling](Electromagnetic Levitation System Modeling)
+
+A simple simulation in Matlab
