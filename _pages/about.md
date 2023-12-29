@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Biography📖
+## Biography📖
 =========
 My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en). My interests are mainly in Machine learning and Data science in Finance, Dynamic System,Disturbuted Optimization , and I also love programming. :)
 
 
-Education🎓
+## Education🎓
 =========
 * University of Southern California, 2020-Present
   * Degree: B.S
@@ -25,7 +25,7 @@ Education🎓
   * Major: Mathematics and Physics
   * GPA: 19.07/20
 
-PUBLICATIONS📚
+## PUBLICATIONS📚
 ===============
 * Risk Sensitivity MARL Review
   * My tasks were writing about the definition and characteristics of coherent, explicit, implicit, VAR, and CVar, and reading related papers and summarizing them.
@@ -35,14 +35,14 @@ PUBLICATIONS📚
 
 
 
-Research Experience📚
+## Research Experience📚
 ===============
 * June 2023 - September 2023: Machine Learning Intern
   * Smart Network Lab
   * Research on designing new voice packages according to the behaviour of Users packages consumption in recent years.
  
 
-Skills💻
+## Skills💻
 ======
 * Soft Skills: Teamwork, Time Management.
 * Programming languages: C, C++, Matlab, Python, VerilogHDL, SQLite.
@@ -50,19 +50,15 @@ Skills💻
 * Development environments or tools: Ubuntu, Latex, Selenium, Git.
 
 
- Awards and Honors 🎖️
+## Awards and Honors 🎖️
 =================
-* <strong>Top 20% of Class , University of Tehran</strong>:
-
- Ranked 17th among 128 contestants in Electrical Engineering B.Sc. students, University of Tehran
+* <strong>Top 20% of Class , University of Tehran</strong>: Ranked 17th among 128 contestants in Electrical Engineering B.Sc. students, University of Tehran
 
 * <strong> Full Scholarship from the University of Tehran. </strong>
 
-* <strong> Iran's University Entrance Exam , Sanjesh </strong>:
+* <strong> Iran's University Entrance Exam , Sanjesh </strong>:Ranked 1016th  (Top 0.67%) in the National Universities Entrance Examination among more than 155,000 contestants. 
 
-Ranked 1016th  (Top 0.67%) in the National Universities Entrance Examination among more than 155,000 contestants. 
-
-Research Interests🔍
+## Research Interests🔍
 =================
 * Federated Learning
 * Dynamic Sistems
@@ -74,7 +70,7 @@ Research Interests🔍
 
 
 
-CERTIFICATES 🏆
+## CERTIFICATES 🏆
 =================
 * <a href="https://www.coursera.org/account/accomplishments/verify/8XH5WEBVWQZU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Using Python to Access Web Data </a>, Coursera
 
@@ -85,7 +81,7 @@ CERTIFICATES 🏆
 * <a href="https://www.coursera.org/account/accomplishments/verify/MLDH5GZXEGZL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Introduction to Git and GitHub </a>, Coursera
 
 
-PROJECTS EXPERIENCE🚀
+## PROJECTS EXPERIENCE🚀
 =================
 
 * <a href="https://github.com/M-Mashreghi/Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness" target="_blank"><strong>Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness</strong></a>
@@ -119,6 +115,6 @@ PROJECTS EXPERIENCE🚀
 * <a href="https://github.com/M-Mashreghi/UT-messenger" target="_blank"><strong>UT-messenger</strong></a>a simple messenger made with C++ that works in command line
 
 
-INTERESTS🎨📚
+## INTERESTS🎨📚
 =================
 * 🎧 Listening to podcasts, 📈 Stock trading, ✈️ Travelling, 🌐 Surfing the internet, 🎮 Video Games, 🏓 Ping pong
