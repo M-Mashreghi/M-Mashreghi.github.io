@@ -79,10 +79,10 @@ INTERESTS
 
 CERTIFICATES
 =================
-* <a href="https://www.coursera.org/account/accomplishments/verify/8XH5WEBVWQZU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Using Python to Access Web Data </a>,Coursera
+* <a href="https://www.coursera.org/account/accomplishments/verify/8XH5WEBVWQZU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Using Python to Access Web Data </a>, Coursera
 
-* <a href="https://www.coursera.org/account/accomplishments/verify/V9U8RDWQRSSN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Advanced Learning Algorithms </a>,Coursera
+* <a href="https://www.coursera.org/account/accomplishments/verify/V9U8RDWQRSSN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Advanced Learning Algorithms </a>, Coursera
 
-* <a href="https://coursera.org/share/5b77b32397b9952503c6c62bd5b1cd6b">Object‑Oriented Data Structures in C++ </a>,Coursera
+* <a href="https://coursera.org/share/5b77b32397b9952503c6c62bd5b1cd6b">Object‑Oriented Data Structures in C++ </a>, Coursera
 
-* <a href="https://www.coursera.org/account/accomplishments/verify/MLDH5GZXEGZL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Introduction to Git and GitHub </a>,Coursera
+* <a href="https://www.coursera.org/account/accomplishments/verify/MLDH5GZXEGZL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Introduction to Git and GitHub </a>, Coursera
