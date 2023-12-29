@@ -51,7 +51,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 
 ## Awards and Honors 🎖️
-=================
+
 * <strong>Top 20% of Class , University of Tehran</strong>: Ranked 17th among 128 contestants in Electrical Engineering B.Sc. students, University of Tehran
 
 * <strong> Full Scholarship from the University of Tehran. </strong>
@@ -59,7 +59,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 * <strong> Iran's University Entrance Exam , Sanjesh </strong>:Ranked 1016th  (Top 0.67%) in the National Universities Entrance Examination among more than 155,000 contestants. 
 
 ## Research Interests🔍
-=================
+
 * Federated Learning
 * Dynamic Sistems
 * Adversarial ML
@@ -71,7 +71,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 
 ## CERTIFICATES 🏆
-=================
+
 * <a href="https://www.coursera.org/account/accomplishments/verify/8XH5WEBVWQZU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Using Python to Access Web Data </a>, Coursera
 
 * <a href="https://www.coursera.org/account/accomplishments/verify/V9U8RDWQRSSN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Advanced Learning Algorithms </a>, Coursera
@@ -82,7 +82,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 
 ## PROJECTS EXPERIENCE🚀
-=================
+
 
 * <a href="https://github.com/M-Mashreghi/Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness" target="_blank"><strong>Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness</strong></a>
 
@@ -116,5 +116,5 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 
 ## INTERESTS🎨📚
-=================
+
 * 🎧 Listening to podcasts, 📈 Stock trading, ✈️ Travelling, 🌐 Surfing the internet, 🎮 Video Games, 🏓 Ping pong
