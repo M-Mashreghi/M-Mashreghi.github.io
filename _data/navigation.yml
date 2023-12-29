@@ -15,8 +15,8 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
   - title: "Transcript"
-    url: /files/Transcript.pdf
+    url: https://raw.githubusercontent.com/M-Mashreghi/M-Mashreghi.github.io/master/files/transcript.pdf
   # - title: "Transcript"
   #   url: /transcript/
