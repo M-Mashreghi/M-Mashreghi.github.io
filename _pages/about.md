@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+# about $ research
 Biography📖
 =========
-I am an EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en).
+My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en). My interests are mainly in Machine learning and Data science in Finance, Dynamic System,Disturbuted Optimization , and I also love programming. :)
+
 
 Education🎓
 =========
@@ -51,10 +52,15 @@ Skills💻
 
 Ranked 1016th  (Top 0.67%) in the National Universities Entrance Examination among more than 155,000 contestants. 
 
-
-INTERESTS
+Research Interests🔍
 =================
-* 🎧 Listening to podcasts, 📈 Stock trading, ✈️ Travelling, 🌐 Surfing the internet, 🎮 Video Games, 🏓 Ping pong
+* Federated Learning
+* Dynamic Sistems
+* Adversarial ML
+* Reinforcement Learning
+* Analyze Finance Market
+
+
 
 
 
@@ -101,3 +107,8 @@ PROJECTS EXPERIENCE🚀
 * <a href="https://github.com/M-Mashreghi/image-processing" target="_blank"><strong>Image processing</strong></a>Detecting specific ICs on a PCB from its image
 * <a href="https://github.com/M-Mashreghi/Digital-Logic-Design-CA/tree/main/CA06" target="_blank"><strong>RTL Circuits</strong></a>Design a circuit to calculate hyperbolic cosine approximately using its Taylor series
 * <a href="https://github.com/M-Mashreghi/UT-messenger" target="_blank"><strong>UT-messenger</strong></a>a simple messenger made with C++ that works in command line
+
+
+INTERESTS🎨📚
+=================
+* 🎧 Listening to podcasts, 📈 Stock trading, ✈️ Travelling, 🌐 Surfing the internet, 🎮 Video Games, 🏓 Ping pong
