@@ -72,28 +72,28 @@ CERTIFICATES 🏆
 PROJECTS EXPERIENCE🚀
 =================
 
-* <a href="https://github.com/M-Mashreghi/Detect-fake-picture" target="_blank"><strong>Detect fake picture with ML</strong></a></p><p>In this project, we use fake and real pictures of mountains, sea, and forests to detect fake ones.</p>
+* <a href="https://github.com/M-Mashreghi/Detect-fake-picture" target="_blank"><strong>Detect fake picture with ML</strong></a>In this project, we use fake and real pictures of mountains, sea, and forests to detect fake ones.
   
-* <a href="https://github.com/M-Mashreghi/Food-Hunting" target="_blank"><strong>Food Hunting</strong></a></p><p>A simple code for getting food faster than others, from students who don't want their food in university.</p>
+* <a href="https://github.com/M-Mashreghi/Food-Hunting" target="_blank"><strong>Food Hunting</strong></a>A simple code for getting food faster than others, from students who don't want their food in university.
 
-* <a href="https://github.com/M-Mashreghi/neural-networks-and-deep-learning" target="_blank"><strong>Deep Learning and Neural Network project</strong></a></p><p>MLP, Transfer Learning, Obejct Detection , Image Captioning , Intent Classification , Extractive QA System , Vision Transformer Image Classification</p>
+* <a href="https://github.com/M-Mashreghi/neural-networks-and-deep-learning" target="_blank"><strong>Deep Learning and Neural Network project</strong></a>MLP, Transfer Learning, Obejct Detection , Image Captioning , Intent Classification , Extractive QA System , Vision Transformer Image Classification
 
-* <a href="https://github.com/M-Mashreghi/trade-bot" target="_blank"><strong>Trade bot</strong></a></p><p>A simple bot to buy and sell in forex and get data from tradingview and analyze candles with MACD 12, SMA, EMA 7 with complicated conditions</p>
+* <a href="https://github.com/M-Mashreghi/trade-bot" target="_blank"><strong>Trade bot</strong></a>A simple bot to buy and sell in forex and get data from tradingview and analyze candles with MACD 12, SMA, EMA 7 with complicated conditions
 
-* <a href="https://github.com/M-Mashreghi/Electromagnetic-Levitation-System-Modeling" target="_blank"><strong>Electromagnetic Levitation System Modeling</strong></a></p><p>A simple simulation in Matlab</p>
+* <a href="https://github.com/M-Mashreghi/Electromagnetic-Levitation-System-Modeling" target="_blank"><strong>Electromagnetic Levitation System Modeling</strong></a>A simple simulation in Matlab
 
-* <a href="https://github.com/M-Mashreghi/AP-2022-Fall/tree/main/4" target="_blank"><strong>Designing an online market with C++ with different facilities </strong></a></p><p>  </p>
+* <a href="https://github.com/M-Mashreghi/AP-2022-Fall/tree/main/4" target="_blank"><strong>Designing an online market with C++ with different facilities </strong></a>  
 
-* <a href="https://github.com/M-Mashreghi/Booth-Multiplier" target="_blank"><strong>Booth Multiplier</strong></a></p><p>A 5 bit booth multiplier implemented with verilog.  </p>
+* <a href="https://github.com/M-Mashreghi/Booth-Multiplier" target="_blank"><strong>Booth Multiplier</strong></a>A 5 bit booth multiplier implemented with verilog.  
 
-* <a href="https://github.com/M-Mashreghi/MIPS" target="_blank"><strong>MIPS</strong></a></p><p>An implementation of a MIPS CPU written in Verilog.</p>
+* <a href="https://github.com/M-Mashreghi/MIPS" target="_blank"><strong>MIPS</strong></a>An implementation of a MIPS CPU written in Verilog.
 
-* <a href="https://github.com/M-Mashreghi/Pacman" target="_blank"><strong>PacMan game</strong></a></p><p>A simple game in CMD</p>
+* <a href="https://github.com/M-Mashreghi/Pacman" target="_blank"><strong>PacMan game</strong></a>A simple game in CMD
 
-* <a href="https://github.com/M-Mashreghi/Buffon-s-Needle" target="_blank"><strong>Buffon’s needle</strong></a></p><p>Buffon’s needle is one of the oldest problems in geometric probability.</p>
-* <a href="https://github.com/M-Mashreghi/Euler-s-number" target="_blank"><strong>Euler’s number</strong></a></p><p>Uniform sums and Euler’s number</p>
-* <a href="https://github.com/M-Mashreghi/Banach-s-matchbox" target="_blank"><strong>Banach’s matchbox</strong></a></p><p>Banach's match problem is a classic problem in probability attributed to Stefan Banach. </p>
-* <a href="https://github.com/M-Mashreghi/Birthday-problem" target="_blank"><strong>Birthday problem</strong></a></p><p>In probability theory, the birthday problem asks for the probability that, in a set of n randomly chosen people, at least two will share a birthday. </p>
-* <a href="https://github.com/M-Mashreghi/image-processing" target="_blank"><strong>Image processing</strong></a></p><p>Detecting specific ICs on a PCB from its image</p>
-* <a href="https://github.com/M-Mashreghi/Digital-Logic-Design-CA/tree/main/CA06" target="_blank"><strong>RTL Circuits</strong></a></p><p>Design a circuit to calculate hyperbolic cosine approximately using its Taylor series</p>
-* <a href="https://github.com/M-Mashreghi/UT-messenger" target="_blank"><strong>UT-messenger</strong></a></p><p>a simple messenger made with C++ that works in command line</p>
+* <a href="https://github.com/M-Mashreghi/Buffon-s-Needle" target="_blank"><strong>Buffon’s needle</strong></a>Buffon’s needle is one of the oldest problems in geometric probability.
+* <a href="https://github.com/M-Mashreghi/Euler-s-number" target="_blank"><strong>Euler’s number</strong></a>Uniform sums and Euler’s number
+* <a href="https://github.com/M-Mashreghi/Banach-s-matchbox" target="_blank"><strong>Banach’s matchbox</strong></a>Banach's match problem is a classic problem in probability attributed to Stefan Banach. 
+* <a href="https://github.com/M-Mashreghi/Birthday-problem" target="_blank"><strong>Birthday problem</strong></a>In probability theory, the birthday problem asks for the probability that, in a set of n randomly chosen people, at least two will share a birthday. 
+* <a href="https://github.com/M-Mashreghi/image-processing" target="_blank"><strong>Image processing</strong></a>Detecting specific ICs on a PCB from its image
+* <a href="https://github.com/M-Mashreghi/Digital-Logic-Design-CA/tree/main/CA06" target="_blank"><strong>RTL Circuits</strong></a>Design a circuit to calculate hyperbolic cosine approximately using its Taylor series
+* <a href="https://github.com/M-Mashreghi/UT-messenger" target="_blank"><strong>UT-messenger</strong></a>a simple messenger made with C++ that works in command line
