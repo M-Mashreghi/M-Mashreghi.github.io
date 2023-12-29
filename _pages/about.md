@@ -72,7 +72,7 @@ CERTIFICATES 🏆
 PROJECTS EXPERIENCE🚀
 =================
 
-<li class="card card-nested clearfix"><div class="content"><p class="clear-margin relative"><a href="https://github.com/M-Mashreghi/Detect-fake-picture" target="_blank"><strong>Detect fake picture with ML</strong></a></p><div class="mop-wrapper space-bottom"><p>In this project, we use fake and real pictures of mountains, sea, and forests to detect fake ones.</p>
+<div class="content"><p class="clear-margin relative"><a href="https://github.com/M-Mashreghi/Detect-fake-picture" target="_blank"><strong>Detect fake picture with ML</strong></a></p><div class="mop-wrapper space-bottom"><p>In this project, we use fake and real pictures of mountains, sea, and forests to detect fake ones.</p>
   </div></div></li>
   <li class="card card-nested clearfix"><div class="content"><p class="clear-margin relative"><a href="https://github.com/M-Mashreghi/Food-Hunting" target="_blank"><strong>Food Hunting</strong></a></p><div class="mop-wrapper space-bottom"><p>A simple code for getting food faster than others, from students who don't want their food in university.</p>
   </div></div></li>
@@ -100,4 +100,4 @@ PROJECTS EXPERIENCE🚀
   </div></div></li><li class="card card-nested clearfix"><div class="content"><p class="clear-margin relative"><a href="https://github.com/M-Mashreghi/image-processing" target="_blank"><strong>Image processing</strong></a></p><div class="mop-wrapper space-bottom"><p>Detecting specific ICs on a PCB from its image</p>
   </div></div></li><li class="card card-nested clearfix"><div class="content"><p class="clear-margin relative"><a href="https://github.com/M-Mashreghi/Digital-Logic-Design-CA/tree/main/CA06" target="_blank"><strong>RTL Circuits</strong></a></p><div class="mop-wrapper space-bottom"><p>Design a circuit to calculate hyperbolic cosine approximately using its Taylor series</p>
   </div></div></li><li class="card card-nested clearfix"><div class="content"><p class="clear-margin relative"><a href="https://github.com/M-Mashreghi/UT-messenger" target="_blank"><strong>UT-messenger</strong></a></p><div class="mop-wrapper space-bottom"><p>a simple messenger made with C++ that works in command line</p>
-  </div></div></li>
+  </div></div>
