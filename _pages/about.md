@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# about $ research
+
 Biography📖
 =========
 My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en). My interests are mainly in Machine learning and Data science in Finance, Dynamic System,Disturbuted Optimization , and I also love programming. :)
@@ -17,13 +17,23 @@ Education🎓
 =========
 * University of Southern California, 2020-Present
   * Degree: B.S
-  * Major: Electrical Engineering (Field Control theory & Dynamical Systems)
+  * Major: Electrical Engineering (Fields: Control theory & Dynamical Systems)
   * GPA: 3.86/4.0
   
 * Derkhshande Sarraf High School
   * Degree: Diploma
   * Major: Mathematics and Physics
   * GPA: 19.07/20
+
+PUBLICATIONS📚
+===============
+* Risk Sensitivity MARL Review
+  * My tasks were writing about the definition and characteristics of coherent, explicit, implicit, VAR, and CVar, and reading related papers and summarizing them.
+
+
+
+
+
 
 Research Experience📚
 ===============
