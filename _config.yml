@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joel Reis / About me"
+title                    : "Mohammad Mashreghi / About me"
 title_separator          : "-"
-name                     : &name "Joel Reis"
+name                     : &name "Mohammad Mashreghi"
 description              : &description "personal description"
-url                      : https://joelreis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://m-mashreghi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "joelreis/joelreis.github.io"
+repository               : "M-Mashreghi/M-Mashreghi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joel Oliveira Reis"
-  avatar           : "profile.jpg"
-  flag             : "macau-flag.png"
+  name             : "Mohammad Mashreghi"
+  avatar           : "https://media.licdn.com/dms/image/D4E03AQG2aweJ7dRsuQ/profile-displayphoto-shrink_400_400/0/1682979817432?e=1707350400&amp;v=beta&amp;t=7wgf0o3ZSJ9FLjLJqEv15qPVWrVlGEGgv8z_P8DUhvs"
+  flag             : 
   bio              : 
-  location         : "Macau, China"
-  employer         : "University of Macau"
+  location         : "Tehran, Iran"
+  employer         : "University of Tehran"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=QIi3y4wAAAAJ"
-  email            :
+  googlescholar    : 
+  email            : "m.mashreghi@ut.ac.ir"
   researchgate     : "https://www.researchgate.net/profile/Joel-Reis-4"
   uri              :
   bitbucket        :
@@ -97,21 +97,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "joelreis"
+  github           : "M-Mashreghi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0000-0002-9281-6829"
+  linkedin         : "https://www.linkedin.com/in/mashreghi/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "joelreis90"
-  wechat           : "joelreis90"
+  twitter          : 
+  wechat           : 
   vine             :
   weibo            :
   xing             :
@@ -258,7 +258,7 @@ head_scripts:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Iran # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
