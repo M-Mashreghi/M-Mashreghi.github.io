@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 ## Biography📖
-=========
+
 My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en). My interests are mainly in Machine learning and Data science in Finance, Dynamic System,Disturbuted Optimization , and I also love programming. :)
 
 
 ## Education🎓
-=========
+
 * University of Southern California, 2020-Present
   * Degree: B.S
   * Major: Electrical Engineering (Fields: Control theory & Dynamical Systems)
@@ -26,7 +26,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
   * GPA: 19.07/20
 
 ## PUBLICATIONS📚
-===============
+
 * Risk Sensitivity MARL Review
   * My tasks were writing about the definition and characteristics of coherent, explicit, implicit, VAR, and CVar, and reading related papers and summarizing them.
 
@@ -36,14 +36,14 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 
 ## Research Experience📚
-===============
+
 * June 2023 - September 2023: Machine Learning Intern
   * Smart Network Lab
   * Research on designing new voice packages according to the behaviour of Users packages consumption in recent years.
  
 
 ## Skills💻
-======
+
 * Soft Skills: Teamwork, Time Management.
 * Programming languages: C, C++, Matlab, Python, VerilogHDL, SQLite.
 * Machine Learning : Tensorflow, Scikit-learn, PyTorch, Scikit-learn.
@@ -61,7 +61,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 ## Research Interests🔍
 
 * Federated Learning
-* Dynamic Sistems
+* Dynamic Systems
 * Adversarial ML
 * Reinforcement Learning
 * Analyze Finance Market
