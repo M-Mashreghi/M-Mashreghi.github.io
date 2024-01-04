@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## In progress
+{%
 % ## Fall (1st) semester 2022/2023
 
 % * Linear Algebra - Probability and Statistics 
@@ -26,4 +27,4 @@ author_profile: true
 
 %## Fall (1st) semester 2020/2021
 
-%* Introduction to Control
+%* Introduction to Control%}
