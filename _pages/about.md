@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 ## Biography📖
-dd
+
 My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en). My interests are mainly in Machine learning and Data science in Finance, Dynamic System,Disturbuted Optimization , and I also love programming. :)
 
 
 ## Education🎓
 
-* University of Southern California, 2020-Present
+* University of University of Tehran, 2020-Present
   * Degree: B.S
   * Major: Electrical Engineering (Fields: Control theory & Dynamical Systems)
   * GPA: 3.86/4.0
