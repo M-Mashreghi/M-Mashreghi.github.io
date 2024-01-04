@@ -18,5 +18,9 @@ main:
 
   - title: "Transcript"
     url: https://raw.githubusercontent.com/M-Mashreghi/M-Mashreghi.github.io/master/files/transcript.pdf
+
+        
+  - title: "Presentation"
+    url: /presentation/
   # - title: "Transcript"
   #   url: /transcript/
