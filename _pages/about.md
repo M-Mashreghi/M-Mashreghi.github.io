@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography📖
 
-My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en). My interests are mainly in Machine learning and Data science in Finance, Dynamic System,Disturbuted Optimization , and I also love programming. :)
+My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en). My interests are mainly in Machine learning and Data science in Finance, Reinforcement Learning,Disturbuted Optimization , and I also love programming. :)
 
 
 ## Education🎓
@@ -60,10 +60,10 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 ## Research Interests🔍
 
-* Federated Learning
-* Dynamic Systems
 * Adversarial ML
 * Reinforcement Learning
+* Federated Learning
+* Dynamic Systems
 * Analyze Finance Market
 
 
