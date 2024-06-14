@@ -27,8 +27,8 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 ## PUBLICATIONS📚
 
-* Risk Sensitivity MARL Review
-  * My tasks were writing about the definition and characteristics of coherent, explicit, implicit, VAR, and CVar, and reading related papers and summarizing them.
+* <a href="https://arxiv.org/abs/2406.06041" target="_blank"><strong>Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review</strong></a>
+
 
 
 
@@ -63,7 +63,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 * Adversarial ML
 * Reinforcement Learning
 * Federated Learning
-* Dynamic Systems
+* Game Theory
 * Analyze Finance Market
 
 
