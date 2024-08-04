@@ -20,6 +20,10 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
   * Major: Electrical Engineering (Fields: Control theory & Dynamical Systems)
   * GPA: 3.86/4.0
   
+
+* University of University of Tehran, 2020-Present
+  * Major: Minor in Business Management
+
 * Derkhshande Sarraf High School
   * Degree: Diploma
   * Major: Mathematics and Physics
@@ -29,7 +33,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 * <a href="https://arxiv.org/abs/2406.06041" target="_blank"><strong>Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review</strong></a>
 
-
+* <a href="" target="_blank"><strong>Resilient Federated Vision Transformer for Alzheimer’s Disease Prediction with Brain Imaging Data</strong> working on</a>
 
 
 
@@ -45,12 +49,14 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 ## Skills💻
 
 * Soft Skills: Teamwork, Time Management.
-* Programming languages: C, C++, Matlab, Python, VerilogHDL, SQLite.
+* Programming languages: C, C++, Matlab, Python, SQLite.
 * Machine Learning : Tensorflow, Scikit-learn, PyTorch, Scikit-learn.
 * Development environments or tools: Ubuntu, Latex, Selenium, Git.
 
 
 ## Awards and Honors 🎖️
+
+* Ranked the <strong>6th</strong> in control engineering, University of Tehran.
 
 * <strong>Top 20% of Class , University of Tehran</strong>: Ranked 17th among 128 contestants in Electrical Engineering B.Sc. students, University of Tehran
 
@@ -64,6 +70,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 * Reinforcement Learning
 * Federated Learning
 * Game Theory
+* Optimization
 * Analyze Finance Market
 
 
@@ -80,8 +87,12 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 * <a href="https://www.coursera.org/account/accomplishments/verify/MLDH5GZXEGZL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Introduction to Git and GitHub </a>, Coursera
 
+* <a href="https://portal.neuromatchacademy.org/certificate/dd17f7f6-eb0f-4a02-8e89-f3b22252ae59">Deep Learning </a>, Neuromatch Academy
+
 
 ## PROJECTS EXPERIENCE🚀
+
+* <a href="https://github.com/M-Mashreghi/Distributed-Cooperative-Competitive-Multi-Agent-Reinforcement-Learning-in-Markov-Games" target="_blank"><strong>Distributed Cooperative Competitive Multi Agent Reinforcement Learning in Markov Games</strong>Implementiong Q-learning, Actor-critic, Minimax, Belief based algo, Independent Q-learning, and Disturbuted Q-learning, DDPG, MADDPG.</a>
 
 
 * <a href="https://github.com/M-Mashreghi/Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness" target="_blank"><strong>Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness</strong></a>
@@ -93,6 +104,8 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 * <a href="https://github.com/M-Mashreghi/Food-Hunting" target="_blank"><strong>Food Hunting</strong></a>A simple code for getting food faster than others, from students who don't want their food in university.
 
 * <a href="https://github.com/M-Mashreghi/neural-networks-and-deep-learning" target="_blank"><strong>Deep Learning and Neural Network project</strong></a>MLP, Transfer Learning, Obejct Detection , Image Captioning , Intent Classification , Extractive QA System , Vision Transformer Image Classification
+
+* <a href="https://github.com/M-Mashreghi/Sequential-Data-Processing-with-RNN---Magnificent_Lupin" target="_blank"><strong> Sequential Data Processing with RNN</strong></a>
 
 * <a href="https://github.com/M-Mashreghi/trade-bot" target="_blank"><strong>Trade bot</strong></a>A simple bot to buy and sell in forex and get data from tradingview and analyze candles with MACD 12, SMA, EMA 7 with complicated conditions
 
