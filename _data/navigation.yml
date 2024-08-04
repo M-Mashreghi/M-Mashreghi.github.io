@@ -8,8 +8,8 @@ main:
     sublinks:
       - title: "Courses"
         url: /courses/
-      - title: "Books"
-        url: /books/
+      # - title: "Books"
+      #   url: /books/
       - title: "Software"
         url: /software/
     
