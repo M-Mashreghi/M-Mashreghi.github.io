@@ -92,7 +92,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 ## PROJECTS EXPERIENCE🚀
 
-* <a href="https://github.com/M-Mashreghi/Distributed-Cooperative-Competitive-Multi-Agent-Reinforcement-Learning-in-Markov-Games" target="_blank"><strong></a>Distributed Cooperative Competitive Multi Agent Reinforcement Learning in Markov Games</strong>Implementiong Q-learning, Actor-critic, Minimax, Belief based algo, Independent Q-learning, and Disturbuted Q-learning, DDPG, MADDPG.
+* <a href="https://github.com/M-Mashreghi/Distributed-Cooperative-Competitive-Multi-Agent-Reinforcement-Learning-in-Markov-Games" target="_blank"><strong>Distributed Cooperative Competitive Multi Agent Reinforcement Learning in Markov Games</strong></a>Implementiong Q-learning, Actor-critic, Minimax, Belief based algo, Independent Q-learning, and Disturbuted Q-learning, DDPG, MADDPG.
 
 
 * <a href="https://github.com/M-Mashreghi/Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness" target="_blank"><strong>Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness</strong></a>
