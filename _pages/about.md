@@ -18,7 +18,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 * University of University of Tehran, 2020-Present
   * Degree: B.S
   * Major: Electrical Engineering (Fields: Control theory & Dynamical Systems)
-  * GPA: 3.86/4.0
+  * GPA: 3.91/4.0
   
 
 * University of University of Tehran, 2020-Present
@@ -56,9 +56,9 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 ## Awards and Honors 🎖️
 
-* Ranked the <strong>6th</strong> in control engineering, University of Tehran.
-
 * <strong>Top 20% of Class , University of Tehran</strong>: Ranked 17th among 128 contestants in Electrical Engineering B.Sc. students, University of Tehran
+
+* Ranked the <strong>8th</strong> in control engineering, University of Tehran.
 
 * <strong> Full Scholarship from the University of Tehran. </strong>
 
