@@ -104,9 +104,12 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 * <a href="https://github.com/M-Mashreghi/Distributed-Cooperative-Competitive-Multi-Agent-Reinforcement-Learning-in-Markov-Games" target="_blank"><strong>Distributed Cooperative Competitive Multi Agent Reinforcement Learning in Markov Games: </strong></a>Implementiong Q-learning, Actor-critic, Minimax, Belief based algo, Independent Q-learning, and Disturbuted Q-learning, DDPG, MADDPG.
 
 
-* <a href="https://github.com/M-Mashreghi/Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness" target="_blank"><strong>Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness: </strong></a>
+* <a href="https://github.com/M-Mashreghi/Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness" target="_blank"><strong>Robust-Federated-Primal-Dual-Learning-for-Android-Malware-Classification-via-Adversarial-Robustness: </strong></a>In this project, the goal is to achieve robust federated learning for Android malware classification through adversarial
+robustness(FGSM-PGD). 
 
 
+* <a href="https://github.com/M-Mashreghi/Detect-fake-picture" target="_blank"><strong>Detect fake picture with ML: </strong></a>In this project, we use fake and real pictures of mountains, sea, and forests to detect fake ones.
+  
 
 * <a href="https://github.com/M-Mashreghi/Detect-fake-picture" target="_blank"><strong>Detect fake picture with ML: </strong></a>In this project, we use fake and real pictures of mountains, sea, and forests to detect fake ones.
   
