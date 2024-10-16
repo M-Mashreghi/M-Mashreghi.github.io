@@ -54,13 +54,20 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
   * Smart Network Lab
   * Research on designing new voice packages according to the behaviour of Users packages consumption in recent years.
  
+* Feb 2023 - March 2023: Machine Learning Intern
+  * Smart Network Lab
+  * Reviewed various distributed RL methods applied to traffic signal control, focusing on assumptions like loss functions and
+system robustness against attacks, and evaluated the effectiveness of each approach in optimizing traffic flow and
+resilience under adversarial conditions.
+ 
 
 ## Skills💻
 
-* Soft Skills: Teamwork, Time Management.
-* Programming languages: C, C++, Matlab, Python, SQLite.
-* Machine Learning : Tensorflow, Scikit-learn, PyTorch, Scikit-learn.
-* Development environments or tools: Ubuntu, Latex, Selenium, Git.
+* Soft Skills: Team work, Social Communication, Adaptability, Critical Thinking
+* Programming Languages: Python, C/C++, MATLAB, Verilog, LaTeX
+* Frameworks & Libraries: PyTorch, TensorFlow, PyTorch, Torchattack,Torchvision, scikit-learn, Simulink
+* Hardware & System Design: STM32Cube, ModelSim, Intel Quartus Prime, Ppice
+* Language: Persian: Native, English: Advanced 
 
 
 ## Awards and Honors 🎖️
