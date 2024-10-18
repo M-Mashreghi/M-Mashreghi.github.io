@@ -84,7 +84,7 @@ resilience under adversarial conditions.
 
 * Adversarial ML
 * Reinforcement Learning
-* Federated Learning
+* Federated RL
 * Game Theory
 * Optimization
 * Analyze Finance Market
