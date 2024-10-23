@@ -15,7 +15,7 @@ redirect_from:
   <link rel="icon" type="image/x-icon" href="/images/laptop_netbook_computer_icon_261866.ico">
 </head>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&amp;weight=500&amp;size=25&amp;duration=2000&amp;pause=3000&amp;color=0E0C5A&amp;width=750&amp;height=40&amp;lines=Let+curiosity+light+our+path." alt="Typing SVG" style="filter: invert(0);"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&amp;weight=500&amp;size=25&amp;duration=2000&amp;pause=3000&amp;color=0E0C5A&amp;width=750&amp;height=40&amp;lines=“Let+curiosity+light+our+path.”" alt="Typing SVG" style="filter: invert(0);"></a>
 ## Biography📖
 
 My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en). My interests are mainly in Machine learning and Data science in Finance, Reinforcement Learning,Disturbuted Optimization , and I also love programming. :)
