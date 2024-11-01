@@ -39,7 +39,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 ## PUBLICATIONS📚
 
-* <a href="https://arxiv.org/abs/2406.06041" target="_blank"><strong>Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review</strong></a>
+* <a href="https://arxiv.org/abs/2406.06041" target="_blank"><strong>Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review</strong></a> (<a href="https://risk-sensitivity-in-mark-irrix1c.gamma.site/" target="_blank">Presentation beta version</a>)
 
 * <a href="" target="_blank"><strong>Resilient Federated Vision Transformer for Alzheimer’s Disease Prediction with Brain Imaging Data</strong> working on</a>
 
