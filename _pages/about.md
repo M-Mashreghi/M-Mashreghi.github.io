@@ -18,7 +18,7 @@ redirect_from:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&amp;weight=500&amp;size=25&amp;duration=2000&amp;pause=3000&amp;color=0E0C5A&amp;width=750&amp;height=40&amp;lines=“Let+curiosity+light+our+path.”" alt="Typing SVG" style="filter: invert(0);"></a>
 ## Biography📖
 
-My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University of Tehran](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en). My interests are mainly in Machine learning and Data science in Finance, Reinforcement Learning,Disturbuted Optimization , and I also love programming. :)
+My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University of Tehran (ECE department)](https://ut.ac.ir/en), supervised by Prof. [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en). My interests are mainly in Machine learning and Data science in Finance, Reinforcement Learning,Disturbuted Optimization , and I also love programming. :)
 
 
 ## Education🎓
@@ -41,8 +41,7 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 * <a href="https://arxiv.org/abs/2406.06041" target="_blank"><strong>Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review</strong></a> (<a href="https://risk-sensitivity-in-mark-irrix1c.gamma.site/" target="_blank">Presentation beta version</a>)
 
-* <a href="" target="_blank"><strong>Resilient Federated Vision Transformer for Alzheimer’s Disease Prediction with Brain Imaging Data</strong> working on</a>
-
+* <a href="" target="_blank"><strong>Resilient Federated Vision Transformer for Alzheimer’s Disease Prediction with Brain Imaging Data</strong> submitted</a>(<a href="/files/Resilient_Federated_Vision_Transformers_for_Alzheimers_Disease_Prediction_with_Brain_Imaging_Data_Jittering.pptx" target="_blank">Presentation</a>)
 
 
 
