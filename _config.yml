@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammad Mashreghi"
-  avatar           : "images\android-chrome-512x512.jpg"
+  avatar           : "images/android-chrome-512x512.jpg"
   flag             :  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
   bio              : "EE B.S student at University of Tehran"
   location         : "Tehran, Iran"
