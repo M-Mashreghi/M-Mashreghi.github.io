@@ -4,6 +4,38 @@
 
 {% include seo.html %}
 
+<!-- 🔽 ADD YOUR CUSTOM META TAGS HERE -->
+<title>M Mashreghi – Portfolio & Research</title>
+<meta name="description" content="Machine learning, RL portfolio optimization, academic projects, and operations research by M. Mashreghi.">
+<meta name="keywords" content="portfolio optimization, reinforcement learning, Finance, Federated Learning, AI research, M Mashreghi">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph -->
+<meta property="og:title" content="M Mashreghi – Portfolio & Research">
+<meta property="og:description" content="Reinforcement learning, GP-IRL, MPC, portfolio optimization, and academic work.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://m-mashreghi.github.io/">
+<meta property="og:image" content="https://m-mashreghi.github.io/assets/preview.png">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "M Mashreghi",
+  "url": "https://m-mashreghi.github.io/",
+  "jobTitle": "AI Researcher",
+  "affiliation": "Sharif University",
+  "sameAs": [
+    "https://github.com/m-mashreghi"
+  ]
+}
+</script>
+<!-- 🔼 END OF CUSTOM SEO TAGS -->
+
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -20,7 +52,5 @@
 
 <meta http-equiv="cleartype" content="on">
 
-
 <link rel="stylesheet" href="{{ base_path }}/assets/css/style.css">
-
 <!-- Font Awesome -->

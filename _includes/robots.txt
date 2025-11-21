@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m-mashreghi.github.io/sitemap.xml
