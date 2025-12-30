@@ -41,9 +41,17 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 
 * <a href="https://arxiv.org/abs/2406.06041" target="_blank"><strong>Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review</strong></a> (<a href="https://risk-sensitivity-in-mark-irrix1c.gamma.site/" target="_blank">Presentation beta version</a>)
 
-* <a href="" target="_blank"><strong>Resilient Federated Vision Transformer for Alzheimer’s Disease Prediction with Brain Imaging Data</strong> submitted</a>(<a href="/files/Resilient_Federated_Vision_Transformers_for_Alzheimers_Disease_Prediction_with_Brain_Imaging_Data_Jittering.pptx" target="_blank">Presentation</a>)
+* <a href="" target="_blank"><strong>Resilient Federated Vision Transformer for Alzheimer’s Disease Prediction with Brain Imaging Data</strong> Accepted</a>(<a href="/files/Resilient_Federated_Vision_Transformers_for_Alzheimers_Disease_Prediction_with_Brain_Imaging_Data_Jittering.pptx" target="_blank">Presentation</a>)
 
 
+* <a href="" target="_blank"><strong>Partial Federated Primal-Dual Optimization for Network-Based Android Malware Detection</strong> Accepted</a>(<a href="https://www.computer.org/csdl/proceedings-article/icdcsw/2025/172500a789/2c5NbWQVwcw" target="_blank">webpage</a>)
+
+
+* <a href="" target="_blank"><strong>Consensus-Constrained Dual-Federated Optimization with Client-Side
+Dynamic Weighting for Distributed Mobile Threat Defense</strong> Submitted</a>(<a href="/files/Consensus_Constrained_Dual_Federated_Optimization_with_Dynamic_Weighting_for_Distributed_Mobile_Threat_Classification.pdf" target="_blank">file</a>)
+
+
+* <a href="" target="_blank"><strong>Gaussian-Process-based Inverse Reinforcement Learning with Scenario-Based MPC Framework for Human-Like Driving Behavior Modeling</strong> Submitted</a>
 
 
 ## Research Experience📚
