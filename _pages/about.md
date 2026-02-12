@@ -51,21 +51,14 @@ My name is Mohammad Mashreghi. I'm a four-year EE B.S Candidate at [University o
 Dynamic Weighting for Distributed Mobile Threat Defense</strong> Submitted</a>(<a href="/files/Consensus_Constrained_Dual_Federated_Optimization_with_Dynamic_Weighting_for_Distributed_Mobile_Threat_Classification.pdf" target="_blank">file</a>)
 
 
-* <a href="" target="_blank"><strong>Gaussian-Process-based Inverse Reinforcement Learning with Scenario-Based MPC Framework for Human-Like Driving Behavior Modeling</strong> working </a>
+* <a href="" target="_blank"><strong>Gaussian-Process-based Inverse Reinforcement Learning with Scenario-Based MPC Framework for Human-Like Driving Behavior Modeling</strong>  working </a>
 
 
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 30px;">
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+  <img src="/images/IRL_method.jpg" alt="IRL Method" style="width: 45%;">
 
-  <div style="text-align: center;">
-    <img src="/images/IRL_method.jpg" alt="IRL Method" width="400">
-    <p><strong>IRL Method</strong></p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="/images/GPIRL_method.jpg" alt="GPIRL Method" width="400">
-    <p><strong>GPIRL Method</strong></p>
-  </div>
+  <img src="/images/GPIRL_method.jpg" alt="GPIRL Method" style="width: 45%;">
 
 </div>
 
