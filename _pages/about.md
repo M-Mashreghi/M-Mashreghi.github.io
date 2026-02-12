@@ -54,11 +54,17 @@ Dynamic Weighting for Distributed Mobile Threat Defense</strong> Submitted</a>(<
 * <a href="" target="_blank"><strong>Gaussian-Process-based Inverse Reinforcement Learning with Scenario-Based MPC Framework for Human-Like Driving Behavior Modeling</strong>  working </a>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 30px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 30px;">
 
-  <img src="/images/IRL_method.jpg" alt="IRL Method" style="width: 45%;">
+  <div style="width: 45%; text-align: center;">
+    <img src="/images/IRL_method.jpg" alt="IRL Method" style="width: 100%;">
+    <p style="margin-top: 10px; font-weight: bold;">IRL Method</p>
+  </div>
 
-  <img src="/images/GPIRL_method.jpg" alt="GPIRL Method" style="width: 45%;">
+  <div style="width: 45%; text-align: center;">
+    <img src="/images/GPIRL_method.jpg" alt="GPIRL Method" style="width: 100%;">
+    <p style="margin-top: 10px; font-weight: bold;">GPIRL Method</p>
+  </div>
 
 </div>
 
